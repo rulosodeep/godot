@@ -32,6 +32,7 @@ for several years as an in-house engine, used to publish several work-for-hire
 titles.
 
 ![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frulosodeep%2Fgodot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frulosodeep%2Fgodot?ref=badge_shield)
 
 ## Getting the engine
 
@@ -76,3 +77,7 @@ for more information.
 [![Code Triagers Badge](https://www.codetriage.com/godotengine/godot/badges/users.svg)](https://www.codetriage.com/godotengine/godot)
 [![Translate on Weblate](https://hosted.weblate.org/widgets/godot-engine/-/godot/svg-badge.svg)](https://hosted.weblate.org/engage/godot-engine/?utm_source=widget)
 [![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/godotengine/godot)](https://www.tickgit.com/browse?repo=github.com/godotengine/godot)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frulosodeep%2Fgodot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frulosodeep%2Fgodot?ref=badge_large)
